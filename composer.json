@@ -37,7 +37,7 @@
     }
   },
   "require": {
-    "burdamagazinorg/thunder": "^8.2.42",
+    "thunder/thunder-distribution": "^3.4.1",
     "cweagans/composer-patches": "~1.0",
     "webflo/drupal-core-strict": "^8.7.1",
     "drupal/core": "^8.7.1",
